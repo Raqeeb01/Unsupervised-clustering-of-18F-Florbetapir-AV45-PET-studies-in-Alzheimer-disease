@@ -26,5 +26,5 @@ from healthy brain scans.
 </div>
 <div align="center">
     <img src=" clustering of PET scans main/Cluster.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
-    <p><em>F4 Brain scans from each cluster – 2 Clusters</em></p>
+    <p><em>Figure 2: Brain scans from each cluster – 2 Clusters</em></p>
 </div>
