@@ -30,8 +30,8 @@ from healthy brain scans.
 </div>
 <div align="center">
     <img src=" clustering of PET scans main/Hierarchical cluster_3.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
-    <p><em>Figure 1: Hierarchical clustering dendrogram with Wards Linkage method. 3 clusters.</em></p>
+    <p><em>Figure 3: Hierarchical clustering dendrogram with Wards Linkage method. 3 clusters.</em></p>
 </div><div align="center">
     <img src=" clustering of PET scans main/Brain cluster_3.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
-    <p><em>Figure 2: Brain scans from each cluster – 3 Clusters</em></p>
+    <p><em>Figure 4: Brain scans from each cluster – 3 Clusters</em></p>
 </div>
