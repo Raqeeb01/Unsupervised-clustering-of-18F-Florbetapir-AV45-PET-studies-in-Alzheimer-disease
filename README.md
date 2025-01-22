@@ -21,10 +21,10 @@ good health. Interestingly, the second cluster had a mix of positive
 and negative cases, indicating the potential presence of earlystage Alzheimer’s cases that might not be distinctly separable
 from healthy brain scans.
 <div align="center">
-    <img src="clustering of PET scans main/Hierarchical clustering.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
+    <img src=" clustering of PET scans main/Hierarchical clustering.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
     <p><em>Figure 1: Hierarchical clustering dendrogram with Wards Linkage method. 2 clusters.</em></p>
 </div>
 <div align="center">
-    <img src="clustering of PET scans main/Cluster.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
+    <img src=" clustering of PET scans main/Cluster.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
     <p><em>F4 Brain scans from each cluster – 2 Clusters</em></p>
 </div>
